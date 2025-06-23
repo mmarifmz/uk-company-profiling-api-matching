@@ -82,9 +82,8 @@ jupyter notebook notebooks/CluedIn_Company_Data_Profiling_and_Validation.ipynb
 ## ✍️ Author
 
 **Arif Zamri**  
-Crafting Scalable Data Culture
-GitHub: [mmarifmz]
-Coffee Session: +60.11 400 300 76
+Crafting Scalable Data Culture  
+Coffee Session: +60.11 400 300 76  
 
 ---
 
